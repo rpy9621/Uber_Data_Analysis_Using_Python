@@ -104,4 +104,4 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Ramendra Kumar**  
-[LinkedIn](https://www.linkedin.com/in/ramendra-kumar-8aa85124a/) • [GitHub](https://github.com/rpy9621)
+[LinkedIn]https://www.linkedin.com/in/ramendra-kumar-8aa85124a/ • [GitHub]https://github.com/rpy9621
